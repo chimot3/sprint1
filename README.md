@@ -209,7 +209,7 @@ php artisan serve
                                     <td>id</td>
                                     <td>Yes</td>
                                     <td>String</td>
-                                    <td>Provincy ID</td>
+                                    <td>City ID</td>
                                 </tr>
                             </tbody>
                         </table>
