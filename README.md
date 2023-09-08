@@ -59,12 +59,6 @@ Fetch province and city data from Rajaongkir:
 php artisan province-city:fetch
 ```
 
-Fetch province and city data from Rajaongkir:
-
-```sh
-php artisan province-city:fetch
-```
-
 Run the dev server (the output will give the address, ex: https://127.0.0.1:8000):
 
 ```sh
