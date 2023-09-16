@@ -12,8 +12,6 @@
 - Membuat REST API untuk pencarian provinsi & kota dengan endpoint berikut:
 -     [GET] /search/provinces?id={province_id}.
 -     [GET] /search/cities?id={city_id}
-- Live demo : [https://poppyfebria.ddns.net:9001](https://poppyfebria.ddns.net:9001)
-
 
 ## Installation
 
